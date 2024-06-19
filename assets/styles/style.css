@@ -108,7 +108,7 @@ header {                                    /*Menerapkan sticky position*/
     display:inline;
 }
 
-/* Perangkat dengan lebar layar 1200px dan di bawahnya */
+/* Perangkat dengan lebar layar 1200px dan di bawahnya part 2: 23456 */
 @media screen and (max-width: 1200px) {
     main {
         flex-flow: column nowrap;
@@ -118,7 +118,7 @@ header {                                    /*Menerapkan sticky position*/
         align-self: center;
     }
 }
-
+/*  */
 /* Perangkat dengan lebar layar 768px dan di bawahnya */
 @media screen and (max-width: 768px){
     nav ul {
@@ -129,6 +129,8 @@ header {                                    /*Menerapkan sticky position*/
         align-self: stretch;
     }
 }
+
+
 
 
   
